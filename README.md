@@ -7,4 +7,4 @@ This To-do list app built in HTML, CSS and JavaScript.
 Your app should look and function like the following GIF:
 
 
-<a href="https://imgflip.com/gif/2h64l8"><img src="https://i.imgflip.com/2h64l8.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2h64v4"><img src="https://i.imgflip.com/2h64v4.gif" title="made at imgflip.com"/></a>
